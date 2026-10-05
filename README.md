@@ -6,6 +6,8 @@
 
 A machine learning model for detecting Lua/Luau obfuscation types.
 
+> **Need help?** Check out the [Frequently Asked Questions (FAQ)](./FAQ.MD) for more details.
+
 ## Usage
 
 Load `davixdetector.onnx` with any ONNX-compatible runtime and run inference on your Lua source code.
