@@ -1,5 +1,9 @@
 # obfuscator-model-detector
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gigihumana/obfuscator-model-detector/main/Captura%20de%20Tela%202026-10-05%20a%CC%80s%2018.13.23.png" alt="Obfuscator Model Detector Preview" width="100%">
+</p>
+
 A machine learning model for detecting Lua/Luau obfuscation types.
 
 ## Usage
